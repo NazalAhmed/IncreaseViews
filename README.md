@@ -13,10 +13,15 @@ edge_morethanone(path,number_of_videos,link_list,repetition,sleeptime_1,sleeptim
 parameters:
 
 path -> path where your webdriver is in 
+
 link -> link of the video that you need to increase the views of
+
 repetition -> number of views you need to increase
+
 sleeptime_1 and sleeptime_2 -> your video will repeat after random second
+
 number_of_videos -> number of videos that you need to increase views of
+
 link_list -> the links of all the videos that you need to increase the views of. Remember to put the link inside python list
 
 Code Example:
