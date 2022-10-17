@@ -6,9 +6,14 @@ This python package cab be used to increase youtube views of any channel by auto
 All the functions in the module are:-
 
 use_chrome(path,link,repetition,sleeptime_1,sleeptime_2)
+
 use_edge(path,link,repetition,sleeptime_1,sleeptime_2)
+
 chr_morethanone(path,number_of_videos,link_list,repetition,sleeptime_1,sleeptime_2)
+
 edge_morethanone(path,number_of_videos,link_list,repetition,sleeptime_1,sleeptime_2)
+
+
 
 parameters:
 
@@ -23,6 +28,8 @@ sleeptime_1 and sleeptime_2 -> your video will repeat after random second
 number_of_videos -> number of videos that you need to increase views of
 
 link_list -> the links of all the videos that you need to increase the views of. Remember to put the link inside python list
+
+
 
 Code Example:
 
